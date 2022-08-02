@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    .TopRow{
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        background-color:rgb(228, 227, 227);} 
+  
+         .TopRowLeft{           
+          border box: none; 
+        } 
+
+       
+      a{       
+        color: gray;}   
+        
+        
+        .MiddleRow{
+            display: flex;
+            justify-content: space-between;
+            padding: 100px;
+            align-items: center;
+            }
+
+            .MiddleRowMid input{
+                font-size: small;
+               padding: 0,5rem 1,5rem; 
+               margin-right: 90px;
+               padding-right: 70px;
+               align-items: flex-start
+                outline; none;
+            }
+
+    
+
+
+            .Venam,.Customer_Service,.Quick_Links,.Contact_Us{
+                width: 30%;
+                }
+                
+                .Venam i{
+                margin: 10px;
+                }
+                                
+                .Venam p{
+                color: #868686;}
+                
+                .footer-end{
+                                                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 100px;}
+
+
+            .Customer_Service li,.Quick_Links li{
+                list-style: none;
+                margin-top: 10px;}
+                                
+                .Contact_Us li{
+                margin-top: 15px;
+                list-style: none;}
+                
+                .Customer_Service a,.Quick_Links a,.Contact_Us i,li{
+                text-decoration: none;
+                color: #868686;}
+                
+
+            
+
+            
+
+
+    
+   
+
+   
